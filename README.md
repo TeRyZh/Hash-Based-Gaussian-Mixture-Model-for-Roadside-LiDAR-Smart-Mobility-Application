@@ -9,10 +9,16 @@ Multimodal Gaussian Mixture Model for Realtime Roadside LiDAR Object Detection -
     </embed>
 </object>
 
-### LiDAR Detected Trajectory vs Video Detected Trajectory
+## LiDAR Detected Trajectory vs Video Detected Trajectory
 
-![LiDAR Detected Trajectory vs Video Detected Trajectory](https://github.com/TeRyZh/Roadside-LiDAR-Vehicle-Detection-and-Tracking-Background-Subtraction/blob/main/images/LIDAR%20and%20Video%20Trajectory.png?raw=true)
+![LiDAR Detected Trajectory vs Video Detected Trajectory](https://github.com/TeRyZh/Gaussian-Mixture-Model-for-Roadside-LiDAR-Object-Detection-and-Tracking/blob/main/Images/Trajectories.png)
 
-<img align="center" width="50%" src="https://github.com/TeRyZh/Roadside-LiDAR-Vehicle-Detection-and-Tracking-Background-Subtraction/blob/main/images/BakersBasin_LiDAR_Detection.gif">
+### Pre-Trained Bakcgorund and Real Time Segmentated foreground points. 
 
-<img align="center" width="50%" src="https://raw.githubusercontent.com/TeRyZh/Roadside-LiDAR-Vehicle-Detection-and-Tracking-Background-Subtraction/main/images/George%40Albany.gif">
+<img align="center" width="50%" src="https://github.com/TeRyZh/Gaussian-Mixture-Model-for-Roadside-LiDAR-Object-Detection-and-Tracking/blob/main/Images/Segment%20Animation.gif">
+
+### GMM Model Detection under Snowy Weather
+<img align="center" width="50%" src="https://github.com/TeRyZh/Gaussian-Mixture-Model-for-Roadside-LiDAR-Object-Detection-and-Tracking/blob/main/Images/GMM_FrenchJoyce_animation.gif">
+
+### GMM Model Detection under Morning Peak Occulusions
+<img align="center" width="50%" src="https://github.com/TeRyZh/Gaussian-Mixture-Model-for-Roadside-LiDAR-Object-Detection-and-Tracking/blob/main/Images/GMM_GeorgeAlbany_animation.gif">
