@@ -13,7 +13,7 @@ Multimodal Gaussian Mixture Model for Realtime Roadside LiDAR Object Detection -
 
 ![LiDAR Detected Trajectory vs Video Detected Trajectory](https://github.com/TeRyZh/Gaussian-Mixture-Model-for-Roadside-LiDAR-Object-Detection-and-Tracking/blob/main/Images/Trajectories.png)
 
-### Fig.2 Pre-Trained Bakcgorund and Real Time Segmented foreground points. 
+### Fig.2 Pre-Trained Bakcground and Real Time Segmented Foreground Points. 
 
 <img align="center" width="50%" src="https://github.com/TeRyZh/Gaussian-Mixture-Model-for-Roadside-LiDAR-Object-Detection-and-Tracking/blob/main/Images/Segment%20Animation.gif">
 
