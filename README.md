@@ -2,7 +2,7 @@
 Multimodal Gaussian Mixture Model for Realtime Roadside LiDAR Object Detection -- Under Review
 
 
-## Fig.1 LiDAR Detected Trajectory
+### Fig.1 LiDAR Detected Trajectory
 
 ![LiDAR Detected Trajectory vs Video Detected Trajectory](https://github.com/TeRyZh/Gaussian-Mixture-Model-for-Roadside-LiDAR-Object-Detection-and-Tracking/blob/main/Images/Trajectories.png)
 
