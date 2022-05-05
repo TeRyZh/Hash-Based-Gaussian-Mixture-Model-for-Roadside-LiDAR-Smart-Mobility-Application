@@ -6,7 +6,7 @@ Multimodal Gaussian Mixture Model for Realtime Roadside LiDAR Object Detection -
 
 ![LiDAR Detected Trajectory vs Video Detected Trajectory](https://github.com/TeRyZh/Gaussian-Mixture-Model-for-Roadside-LiDAR-Object-Detection-and-Tracking/blob/main/Images/Trajectories.png)
 
-### Fig.2 Pre-Trained Bakcground Overlayed with Segmented Foreground Points. In this figure, only the foreground objects are updated. The background infrastructure points are considered as stable components.
+### Fig.2 Pre-Trained Bakcground Overlayed with Segmented Foreground Points. In this figure, only the foreground objects are updated. The background infrastructure points are considered as stationary components.
 
 <img align="center" width="100%" src="https://github.com/TeRyZh/Gaussian-Mixture-Model-for-Roadside-LiDAR-Object-Detection-and-Tracking/blob/main/Images/Segment%20Animation.gif">
 
