@@ -16,5 +16,5 @@ Multimodal Gaussian Mixture Model for Realtime Roadside LiDAR Object Detection -
 ### Fig.4 GMM Model Detection Under Occulusions
 <img align="center" width="80%" src="https://github.com/TeRyZh/Gaussian-Mixture-Model-for-Roadside-LiDAR-Object-Detection-and-Tracking/blob/main/Images/GMM_GeorgeAlbany_animation.gif">
 
-### Fig.5 GMM Model Running in RealTime
+### Fig.5 GMM Model Running in RealTime. The bakcground points are getting fewer and fewer when the GMM fully captured the background modes. 
 <img align="center" width="80%" src="https://github.com/TeRyZh/Gaussian-Mixture-Model-for-Roadside-LiDAR-Object-Detection-and-Tracking/blob/main/Images/RealTimeSegmentation.gif">
