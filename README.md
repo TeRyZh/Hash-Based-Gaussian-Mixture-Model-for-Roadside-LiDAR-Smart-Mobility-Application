@@ -10,10 +10,10 @@ Multimodal Gaussian Mixture Model for Realtime Roadside LiDAR Object Detection -
 
 <img align="center" width="80%" src="https://github.com/TeRyZh/Gaussian-Mixture-Model-for-Roadside-LiDAR-Object-Detection-and-Tracking/blob/main/Images/Segment%20Animation.gif">
 
-### Fig.3 GMM Model Detection Under Snowy Weather
+### Fig.3 GMM Model Detection Under Snowy Weather. The snowfalls cause phatom reflections with irregular and random position as displayed in the figure. 
 <img align="center" width="80%" src="https://github.com/TeRyZh/Gaussian-Mixture-Model-for-Roadside-LiDAR-Object-Detection-and-Tracking/blob/main/Images/GMM_FrenchJoyce_animation.gif">
 
-### Fig.4 GMM Model Detection Under Occulusions
+### Fig.4 GMM Model Detection Under Occulusions. Redlight phases usually have more severe occulusions than greenlight phases.
 <img align="center" width="80%" src="https://github.com/TeRyZh/Gaussian-Mixture-Model-for-Roadside-LiDAR-Object-Detection-and-Tracking/blob/main/Images/GMM_GeorgeAlbany_animation.gif">
 
 ### Fig.5 GMM Model Running in RealTime. The bakcground points are getting fewer and fewer when the GMM fully captured the background modes. 
