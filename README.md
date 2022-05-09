@@ -6,11 +6,11 @@ Multimodal Gaussian Mixture Model for Realtime Roadside LiDAR Object Detection -
 
 ![LiDAR Detected Trajectory vs Video Detected Trajectory](https://github.com/TeRyZh/Gaussian-Mixture-Model-for-Roadside-LiDAR-Object-Detection-and-Tracking/blob/main/Images/Trajectories.png)
 
-### Fig.2 Pre-Trained Bakcground Overlayed with Segmented Foreground Points. In this figure, only the foreground objects are updated. The background infrastructure points are considered as stationary components.
+### Fig.2 Pre-Trained Bakcgrounds are overlayed with moving foreground points. In this figure, only the foreground objects are updated. The background infrastructure points are considered as stationary components.
 
 <img align="center" width="80%" src="https://github.com/TeRyZh/Gaussian-Mixture-Model-for-Roadside-LiDAR-Object-Detection-and-Tracking/blob/main/Images/Segment%20Animation.gif">
 
-### Fig.3 GMM Model Detection Under Snowy Weather. The snowfalls cause phatom reflections with irregular and random position as displayed in the figure. 
+### Fig.3 GMM Model Detection Under Snowy Weather. The snowfalls cause phatom reflections with irregular and random points as displayed in the figure. 
 <img align="center" width="80%" src="https://github.com/TeRyZh/Gaussian-Mixture-Model-for-Roadside-LiDAR-Object-Detection-and-Tracking/blob/main/Images/GMM_FrenchJoyce_animation.gif">
 
 ### Fig.4 GMM Model Detection Under Occulusions. Redlight phases usually have more severe occulusions than greenlight phases.
