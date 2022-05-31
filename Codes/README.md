@@ -1,1 +1,1 @@
-## This Folder contains codes using Gaussian Mixture Model for LiDAR Background Modeling
+## This Folder contains codes using Bayesian Gaussian Mixture Model for LiDAR Background Modeling
