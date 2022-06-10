@@ -1,5 +1,5 @@
 # Weighted Bayesian Gaussian-Mixture-Model-for-Roadside-LiDAR-Object-Detection-and-Tracking
-Multimodal Dirichlet Process Gaussian Mixture Model for Realtime Roadside LiDAR Object Detection -- Under Review
+Weighted Bayesian Gaussian Mixture Model for Realtime Roadside LiDAR Object Detection -- Under Review
 
 
 ### Fig.1 LiDAR Detected Trajectory
