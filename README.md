@@ -13,7 +13,7 @@ Weighted Bayesian Gaussian Mixture Model for Realtime Roadside LiDAR Object Dete
 ### Fig.3 Snowy Weather. The snowfalls cause phatom reflections with irregular and random points as displayed in the figure. 
 <img align="center" height= 40%  width="60%" src="https://github.com/TeRyZh/Gaussian-Mixture-Model-for-Roadside-LiDAR-Object-Detection-and-Tracking/blob/main/Images/GMM_FrenchJoyce_animation.gif">
 
-### Fig.4 Occuluded Traffic Condition. Redlight phases usually have more severe occulusions than greenlight phases.
+### Fig.4 Signalized Intersection. Redlight phases usually have more severe occulusions than greenlight phases.
 <img align="center" height= 60%  width="60%" src="https://github.com/TeRyZh/Gaussian-Mixture-Model-for-Roadside-LiDAR-Object-Detection-and-Tracking/blob/main/Images/GMM_GeorgeAlbany_animation.gif">
 
 ### Fig.5 Adaptive GMM Model Running in RealTime. The bakcground points are getting fewer and fewer when the GMM fully captured the background modes. 
