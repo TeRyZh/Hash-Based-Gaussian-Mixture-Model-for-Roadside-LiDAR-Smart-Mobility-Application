@@ -1,4 +1,4 @@
-# Weighted Bayesian Gaussian-Mixture-Model-for-Roadside-LiDAR-Object-Detection-and-Tracking
+# Hash-based Gaussian-Mixture-Model-for-Roadside-LiDAR-Object-Detection-and-Tracking
 Weighted Bayesian Gaussian Mixture Model for Realtime Roadside LiDAR Object Detection -- Under Review
 
 Preprint Download [ArXiv](https://doi.org/10.48550/arXiv.2204.09804)
