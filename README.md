@@ -1,9 +1,6 @@
 # Hash-based Gaussian-Mixture-Model-for-Roadside-LiDAR-Object-Detection-and-Tracking
 Hash-based Gaussian Mixture Model for Realtime Roadside LiDAR Object Detection -- Under Review
 
-Preprint Download [ArXiv](https://doi.org/10.48550/arXiv.2204.09804)
-
-
 ### Fig.1 LiDAR Detected Trajectory
 
 ![LiDAR Detected Trajectory vs Video Detected Trajectory](https://github.com/TeRyZh/Gaussian-Mixture-Model-for-Roadside-LiDAR-Object-Detection-and-Tracking/blob/main/Images/Trajectories.png)
