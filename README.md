@@ -15,7 +15,7 @@ Hash-based Gaussian Mixture Model for Realtime Roadside LiDAR Object Detection -
 ### Fig.4 Signalized Intersection. Redlight phases usually have more severe occulusions than greenlight phases.
 <img align="center" height= 60%  width="60%" src="https://github.com/TeRyZh/Hash-Based-Gaussian-Mixture-Model-for-Roadside-LiDAR-Object-Detection-and-Tracking/blob/main/Detection-Tracking/GeorgeSt_animation.gif">
 
-### Fig.5 Signalized Intersection. Redlight phases usually have more severe occulusions than greenlight phases.
+### Fig.5 Highway Segment. High Volume Traffic at Afternoon Peak Hour. 
 <img align="center" height= 60%  width="60%" src="https://github.com/TeRyZh/Hash-Based-Gaussian-Mixture-Model-for-Roadside-LiDAR-Object-Detection-and-Tracking/blob/main/Detection-Tracking/Gibbons_animation.gif">
 
 ### Fig.6 Adaptive GMM Model Running in RealTime. The bakcground points are getting fewer and fewer when the GMM fully captured the background modes. 
