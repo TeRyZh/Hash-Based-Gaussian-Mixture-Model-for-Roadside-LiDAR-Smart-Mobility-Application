@@ -1,5 +1,5 @@
-# Hash-based Gaussian-Mixture-Model-for-Roadside-LiDAR-Object-Detection-and-Tracking
-Hash-based Gaussian Mixture Model for Realtime Roadside LiDAR Object Detection -- Under Review
+# Hash-based Gaussian-Mixture-Model-for-Roadside-LiDAR-Smart-Intersection-Applicataion
+Hash-based Gaussian Mixture Model for Realtime Roadside LiDAR Smart Intersection Applicataion -- Under Review
 
 ### Fig.1 LiDAR Detected Trajectory
 
