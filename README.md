@@ -1,5 +1,5 @@
 # Hash-based Gaussian-Mixture-Model-for-Roadside-LiDAR-Smart-Infrastructure-Applicataion
-Hash-based Gaussian Mixture Model for Realtime Roadside LiDAR Smart Infrastructure Applicataion -- Under Review
+T. T. Zhang, Y. Ge, A. Chen, M. Sartipi and P. J. Jin, "Hash-Based Gaussian Mixture Model (HGMM) for Roadside LiDAR Smart Infrastructure Applications," in IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2024.3434749. [Paper_Link](https://ieeexplore.ieee.org/document/10624598)
 
 ### Fig.1 LiDAR Detected Trajectory
 
